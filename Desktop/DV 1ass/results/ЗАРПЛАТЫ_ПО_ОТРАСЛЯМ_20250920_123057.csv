@@ -1,0 +1,16 @@
+industry,job_count,avg_salary,min_salary,max_salary
+Venture Capital and Private Equity Principals,11,155462.0,30.0,300000.0
+Computer and Network Security,16,81885.0,21.0,218000.0
+Human Resources Services,48,70625.0,18.0,550000.0
+Education Management,15,66582.0,31.0,167000.0
+Software Development,97,63804.0,11.0,750000.0
+Investment Management,11,60010.0,18.0,225000.0
+Law Practice,22,52497.0,26.0,150000.0
+Information Services,15,51027.0,18.0,250000.0
+Business Consulting and Services,68,50550.0,16.0,400000.0
+Mental Health Care,85,50075.0,17.0,138000.0
+"Technology, Information and Internet",43,49695.0,16.0,166400.0
+Insurance,63,46436.0,15.0,500000.0
+Accounting,65,45879.0,16.0,200000.0
+Health and Human Services,26,42298.0,18.0,354897.0
+Advertising Services,47,42163.0,15.0,175000.0

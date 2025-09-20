@@ -1,0 +1,7 @@
+experience_level,job_count,avg_salary,q25_salary,q75_salary
+Internship,132,2703.0,18.0,25.0
+Entry level,2748,10476.0,18.0,35.0
+Associate,424,24681.0,21.0,50000.0
+Mid-Senior level,1458,39928.0,23.0,69000.0
+Director,68,129296.0,69705.0,180000.0
+Executive,26,137430.0,60000.0,157500.0
