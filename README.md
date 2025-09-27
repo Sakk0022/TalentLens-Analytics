@@ -16,3 +16,4 @@ TalentLens-Analytics is a virtual company specializing in labor market analysis.
 - Data: CSV files of LinkedIn vacancies (companies.csv, jobs.csv, etc.).
 
 The repository includes code, CSV examples (if applicable), and results/charts folders for output. Make sure that the repository is public.
+<img width="754" height="531" alt="erd" src="https://github.com/user-attachments/assets/d60b95e7-3abb-4ee9-a650-30f647a619a6" />
